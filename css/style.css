@@ -3,6 +3,7 @@ body {
     //background : linear-gradient(#5E1ADD, #FFE8F3);
     width: 100vh;
     height: 100vh;
+    overflow-y:hidden;
 }
 
 
